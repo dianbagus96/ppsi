@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="league" transform="translate(-193.000000, -401.000000)" stroke-width="2">
+            <g transform="translate(120.000000, 180.000000)" id="Group">
+                <g transform="translate(71.000000, 219.000000)">
+                    <g id="icon_calendar" transform="translate(0.000000, 3.000000)">
+                        <g id="Icon" transform="translate(2.000000, 0.000000)">
+                            <path d="M1,3.99263394 C1,2.89224915 1.89273699,2 2.99428189,2 L26.0057181,2 C27.1076158,2 28,2.89170502 28,3.99263394 L28,25.0073661 C28,26.1077509 27.107263,27 26.0057181,27 L2.99428189,27 C1.89238424,27 1,26.108295 1,25.0073661 L1,3.99263394 Z" id="Line-246" stroke="#000000"></path>
+                            <path d="M7,0 L7,4" id="Line-245" stroke="#000000" stroke-linecap="round"></path>
+                            <path d="M22,0 L22,4" id="Line-244" stroke="#000000" stroke-linecap="round"></path>
+                            <path d="M1,8 L28,8" id="Line-243" stroke="#000000" stroke-linejoin="round"></path>
+                            <path d="M16,15 L18,15" id="Line-242" stroke="#8EC91B" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M21,15 L23,15" id="Line-241" stroke="#8EC91B" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M16,20 L18,20" id="Line-240" stroke="#8EC91B" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M11,20 L13,20" id="Line-239" stroke="#8EC91B" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M6,20 L8,20" id="Line-238" stroke="#8EC91B" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M11,15 L13,15" id="Line-237" stroke="#8EC91B" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
